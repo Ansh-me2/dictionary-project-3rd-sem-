@@ -273,8 +273,9 @@ void main_menu()
     printf("\n\t\t\t%c    |                     %c" , s1 , s1);
     printf("\n\t\t\t%c 4  | Show search history %c" , s1 , s1);
     printf("\n\t\t\t%c    |                     %c" , s1 , s1);
-    printf("\n\t\t\t%c 5  | Remove last         %c" , s1 , s1);
-    printf("\n\t\t\t%c    | searched element    %c" , s1 , s1);
+    printf("\n\t\t\t%c 5  | Remove last searched%c" , s1 , s1);
+    printf("\n\t\t\t%c    | element from search %c" , s1 , s1);
+    printf("\n\t\t\t%c    | history             %c" , s1 , s1);
     printf("\n\t\t\t%c    |                     %c" , s1 , s1);
     printf("\n\t\t\t%c 6  | Clear history       %c" , s1 , s1);
     printf("\n\t\t\t%c    |                     %c" , s1 , s1);
